@@ -8,3 +8,9 @@ Praticar a interação entre duas contas GitHub simulando um fluxo de colaboraç
 - [ ] Escrever instruções no `README.md`.
 - [ ] Realizar commits e pull requests.
 - [ ] Resolver conflitos (se necessário).
+
+## Como Contribuir
+1. Faça um fork do repositório.
+2. Clone o repositório para sua máquina.
+3. Faça um branch para suas alterações.
+4. Após editar, abra um Pull Request.
